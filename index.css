@@ -1,0 +1,45 @@
+*{
+    text-align: center;
+    
+}
+body{
+    background-image: url("bowShip1.jpg");
+    background-size: 100vw;
+
+}
+
+h1{
+    background-image: url("Ocean1.jpg");
+    background-size: cover;
+    background-position: 0vw;
+    padding: 25px;
+    color: aquamarine;
+}
+
+h2 {
+    background-color: rgba(26, 141, 26, 0.75);
+    padding: 15px;
+}
+
+h2.glacier{
+    background-image: url("Glacier1.jpg");
+    background-size: cover;
+    background-position: 0vw;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+}
+
+img {
+    width: 50vw;
+}
+
+p2 {
+    padding: 10px;
+    background-color: rgba(240, 248, 255, 0.75);
+    /* color: white; */
+}
+
+img.img2 {
+    width: 15vw;
+    /* height: 15px; */
+}
